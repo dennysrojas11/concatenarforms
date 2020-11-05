@@ -1,0 +1,10 @@
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppConcatenar\WinAppConcatenar\bin\Debug\WinAppConcatenar.exe.config
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppConcatenar\WinAppConcatenar\bin\Debug\WinAppConcatenar.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppConcatenar\WinAppConcatenar\bin\Debug\WinAppConcatenar.pdb
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppConcatenar\WinAppConcatenar\obj\Debug\WinAppConcatenar.csprojAssemblyReference.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppConcatenar\WinAppConcatenar\obj\Debug\WinAppConcatenar.Form1.resources
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppConcatenar\WinAppConcatenar\obj\Debug\WinAppConcatenar.Properties.Resources.resources
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppConcatenar\WinAppConcatenar\obj\Debug\WinAppConcatenar.csproj.GenerateResource.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppConcatenar\WinAppConcatenar\obj\Debug\WinAppConcatenar.csproj.CoreCompileInputs.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppConcatenar\WinAppConcatenar\obj\Debug\WinAppConcatenar.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppConcatenar\WinAppConcatenar\obj\Debug\WinAppConcatenar.pdb
